@@ -27,17 +27,15 @@ A simple command-line To-Do List application built using Python and lists.
 
 💡 Concepts Used
 
-- Functions
-- Loops (for, while)
-- Conditional statements (if-else)
-- List operations (append, pop)
-
+1. Functions
+2. Loops (for, while)
+3. Conditional statements (if-else)
+4. List operations (append, pop)
 
  💡 Future Improvements
-- Save tasks to file
-- Add GUI (Tkinter)
-- Add deadlines
+1. Save tasks to file
+2. Add GUI (Tkinter)
+3. Add deadlines
 
 👩‍💻 Author
-Your Name
 vaishnavi gupta 
